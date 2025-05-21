@@ -19,7 +19,7 @@
 <h2 align="left"> 🛠 Skills</h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=aws,react,vue,nodejs,npm,nextjs,nuxtjs,ts,vscode,bootstrap,css,scss,html,js,s3,ec2,mongodb,compass,postman,laravel,nginx,express
+[![My Skills](https://skillicons.dev/icons?i=aws,react,vue,nodejs,npm,nextjs,nuxtjs,ts,vscode,bootstrap,css,scss,html,js,mongodb,postman,laravel,nginx,express
 ,jquery,firebase,graphql,github,git,gitlab,heroku,jest,materialui,mysql,netlify,prisma,rabbitmq,webpack&perline=10)](https://skillicons.dev)
 <!-- 
 <div align="left">
