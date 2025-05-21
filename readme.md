@@ -43,3 +43,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
+
+
+
+#### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=eslamdahshan61&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eslamdahshan61&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamdahshan61&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
