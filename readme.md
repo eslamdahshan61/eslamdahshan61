@@ -19,9 +19,26 @@
 <h2 align="left"> 🛠 Skills</h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=aws,react,vue,nodejs,npm,react,nuxt,next,ts,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,react,vue,nodejs,npm,nextjs,nuxtjs,ts,vscode,bootstrap,css,scss,html,js,s3,ec2,mongodb,compass,postman,laravel,nginx,express
+,jquery,firebase,graphql,github,git,gitlab,heroku,jest,materialui,mysql,netlify,prisma,rabbitmq,webpack&perline=10)](https://skillicons.dev)
 <!-- 
 <div align="left">
+react
+Amro
+ts
+Amro
+vscode
+Amro
+tailwind
+Amro
+js
+Amro
+html
+Amro
+css
+Amro
+Amro Al Nagme
+bootstrap
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
